@@ -1,0 +1,6 @@
+{
+  "name": "AuraMusic",
+  "description": "Reproductor de música 100% local, ligero y personalizable con soporte Media3 ExoPlayer, ecualizador y temas AMOLED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

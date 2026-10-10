@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AuraMusic</string>
+    <string name="tab_songs">Canciones</string>
+    <string name="tab_albums">Álbumes</string>
+    <string name="tab_artists">Artistas</string>
+    <string name="tab_folders">Carpetas</string>
+    <string name="tab_playlists">Listas</string>
+    <string name="search_placeholder">Buscar canciones, artistas, álbumes…</string>
+    <string name="now_playing">Ahora reproduciendo</string>
+    <string name="queue_title">Cola de reproducción</string>
+    <string name="equalizer_title">Ecualizador</string>
+    <string name="sleep_timer_title">Temporizador de apagado</string>
+    <string name="settings_title">Ajustes y Personalización</string>
+    <string name="favorites_title">Favoritos</string>
+    <string name="permission_rationale">AuraMusic necesita permiso para leer los archivos de audio almacenados en tu dispositivo. Funciona 100% sin internet.</string>
+    <string name="grant_permission">Conceder permiso</string>
+    <string name="scan_library">Escanear biblioteca</string>
+    <string name="load_demo_tracks">Generar pistas locales de prueba</string>
+    <string name="min_duration_filter">Duración mínima de canciones</string>
+    <string name="excluded_folders">Carpetas excluidas</string>
+    <string name="theme_mode">Modo de tema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="theme_amoled">AMOLED (Negro puro)</string>
+    <string name="dynamic_palette">Extraer color de la carátula actual</string>
+    <string name="custom_background">Fondo personalizado</string>
+</resources>
